@@ -1,0 +1,7 @@
+{
+	"name": "nologo-studio/password-protected",
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">=5.6"
+	}
+}
